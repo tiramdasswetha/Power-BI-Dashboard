@@ -29,7 +29,14 @@ To analyze the latest trends in the data industry and provide insights into:
 
 ## 🖥️ **Dashboard Preview**
 
-![Dashboard Screenshot](Dashboard.jpg)
+---
+
+## 🖥 Dashboard Preview
+
+![Data Professional Survey Dashboard](Power BI Dashboard.png)
+
+---
+
 
 🖥 Dashboard Features
 
