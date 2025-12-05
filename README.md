@@ -1,4 +1,4 @@
-## Data Professional Survey Dashboard – Power BI Project ##
+## Data Professional Survey Dashboard ##
 
 [![LinkedIn Button](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tiramdas-swetha2231/)
 
