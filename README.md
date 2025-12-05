@@ -41,18 +41,14 @@ To analyze the latest trends in the data industry and provide insights into:
 ---------------
 🖥**Dashboard Features**
 
-✔ Salary comparison by roles
-✔ Survey count & average age KPIs
-✔ Tree map for global responses
-✔ Gauge charts for satisfaction scores
-✔ Donut chart for entry difficulty
-✔ Programming preference analysis
+*Salary comparison by roles
+* Survey count & average age KPIs
+* Tree map for global responses
+* Gauge charts for satisfaction scores
+*  Donut chart for entry difficulty
+* Programming preference analysis
 
 ## 🖥️ **Dashboard Preview**
 
---
-![Power BI Dashboard](Power%20BI%20Dashboard.jpg)
----
-## 📫 **Connect With Me**
 
-👉 **LinkedIn:** [tiramdas-swetha2231](https://www.linkedin.com/in/tiramdas-swetha2231/)
+![Power BI Dashboard](Power%20BI%20Dashboard.jpg)
