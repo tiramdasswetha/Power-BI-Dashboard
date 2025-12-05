@@ -14,34 +14,34 @@ This project presents an interactive Power BI dashboard based on a Data Professi
 
 To analyze the latest trends in the data industry and provide insights into:
 
-• Job roles & salary distribution
-• Work-life and salary satisfaction
-• Difficulty in entering data careers
-• Popular programming languages
-• Country-wise representation of data professionals
+* Job roles & salary distribution
+* Work-life and salary satisfaction
+* Difficulty in entering data careers
+* Popular programming languages
+* Country-wise representation of data professionals
 
 -----------
 🛠 **Tools Used**
 
-• Microsoft Power BI
-• Power Query for data transformation
-• DAX for calculations
-• Data Modeling
-• Interactive Visuals & Filters
+* Microsoft Power BI
+* Power Query for data transformation
+* DAX for calculations
+* Data Modeling
+* Interactive Visuals & Filters
 
 ---------------
 📌 **Key Insights**
 
 
-• Data Analyst is the most common role among respondents
-• Work-life balance satisfaction is higher than salary happiness
-• Python dominates as the preferred programming language
-• Many respondents find it moderately difficult to break into data
+* Data Analyst is the most common role among respondents
+* Work-life balance satisfaction is higher than salary happiness
+* Python dominates as the preferred programming language
+* Many respondents find it moderately difficult to break into data
 
 ---------------
 🖥**Dashboard Features**
 
-*Salary comparison by roles
+* Salary comparison by roles
 * Survey count & average age KPIs
 * Tree map for global responses
 * Gauge charts for satisfaction scores
